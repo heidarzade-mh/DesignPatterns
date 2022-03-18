@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{A5D8FA70-BF52-49D4-8994-A8996C0C55F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{2A6F9695-C979-4C2A-9CE7-3BE85ED7A3AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{1E7799E4-9A0C-44EA-B93B-7E60B4D68F2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{A5D8FA70-BF52-49D4-8994-A8996C0C55F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5D8FA70-BF52-49D4-8994-A8996C0C55F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5D8FA70-BF52-49D4-8994-A8996C0C55F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6F9695-C979-4C2A-9CE7-3BE85ED7A3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6F9695-C979-4C2A-9CE7-3BE85ED7A3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6F9695-C979-4C2A-9CE7-3BE85ED7A3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6F9695-C979-4C2A-9CE7-3BE85ED7A3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7799E4-9A0C-44EA-B93B-7E60B4D68F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7799E4-9A0C-44EA-B93B-7E60B4D68F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7799E4-9A0C-44EA-B93B-7E60B4D68F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7799E4-9A0C-44EA-B93B-7E60B4D68F2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
