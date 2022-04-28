@@ -8,7 +8,7 @@ namespace Iterator.Business
     {
         private List<Elempoyee> listEmployees = new List<Elempoyee>();
         //Create Iterator
-        public Iterator CreateIterator()
+        public AbstractIterator CreateIterator()
         {
             return new Iterator(this);
         }

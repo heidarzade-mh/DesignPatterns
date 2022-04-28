@@ -2,6 +2,6 @@
 {
     public interface AbstractCollection
     {
-        Business.Iterator CreateIterator();
+        AbstractIterator CreateIterator();
     }
 }

@@ -2,7 +2,7 @@
 
 namespace Iterator.Abstraction
 {
-    interface AbstractIterator
+    public interface AbstractIterator
     {
         Elempoyee First();
         Elempoyee Next();

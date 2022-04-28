@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton\Singleton.csproj", "{A4DFBCF1-46A8-4482-ABAF-4D97107E257B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{033E0F90-FEB0-4D57-9820-18B61E0905BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{A4DFBCF1-46A8-4482-ABAF-4D97107E257B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4DFBCF1-46A8-4482-ABAF-4D97107E257B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4DFBCF1-46A8-4482-ABAF-4D97107E257B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033E0F90-FEB0-4D57-9820-18B61E0905BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033E0F90-FEB0-4D57-9820-18B61E0905BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033E0F90-FEB0-4D57-9820-18B61E0905BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033E0F90-FEB0-4D57-9820-18B61E0905BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
