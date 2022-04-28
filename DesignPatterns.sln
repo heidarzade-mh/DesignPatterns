@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{BCAC1EE1-16AB-46D5-8260-9648C4CEB022}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton\Singleton.csproj", "{A4DFBCF1-46A8-4482-ABAF-4D97107E257B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{BCAC1EE1-16AB-46D5-8260-9648C4CEB022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCAC1EE1-16AB-46D5-8260-9648C4CEB022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCAC1EE1-16AB-46D5-8260-9648C4CEB022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DFBCF1-46A8-4482-ABAF-4D97107E257B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DFBCF1-46A8-4482-ABAF-4D97107E257B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DFBCF1-46A8-4482-ABAF-4D97107E257B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DFBCF1-46A8-4482-ABAF-4D97107E257B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
